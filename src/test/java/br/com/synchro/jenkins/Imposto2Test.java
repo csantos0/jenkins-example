@@ -1,11 +1,14 @@
 /**
  * 
  */
-package br.com.caelum.blog.jenkins;
+package br.com.synchro.jenkins;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import br.com.synchro.jenkins.Imposto;
+import br.com.synchro.jenkins.Orcamento;
 
 /**
  * @author cvs
